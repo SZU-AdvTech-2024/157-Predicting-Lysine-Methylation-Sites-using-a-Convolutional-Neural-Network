@@ -2,7 +2,6 @@
     author = "Spadaro, Austin and Sharma, Alok and Dehzangi, Iman",
     journal = "Methods",
     pages = "127--132",
-    publisher = "Elsevier",
     title = "{Predicting lysine methylation sites using a convolutional neural network}",
     volume = "226",
     year = "2024"
